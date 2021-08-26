@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 100%;
+}
+.header{
+    width: 99.9%;
+    border: 1px solid black;
+    background-color: black;
+}
+.header img{
+    height: 100px;
+    width: 100px;
+    padding: 10px 140px 10px;
+    
+  
+}
+.header-ul{
+   position: absolute;
+   left: 600px;
+   top: 60px;
+
+}
+.ul-list{
+    padding: 10px 50px 10px;
+    width: 100%;
+    color: white;
+}
+.slider{
+    width: 100%;
+    height: 400px;
+}
+.cart-container{
+    background-color: black;
+    padding: 10px 0px 20px;
+    width: 100%;
+}
+.cart{
+    margin: 40px 40px 40px;
+}
+
+.cart-image{
+    width: 200px;
+    height: 250px;
+    padding: 40px 50px 40px;
+}
+.cart-t{
+    padding: 40px 50px 40px;
+    color: white;
+}
+.cart-b{
+    height: 40px;
+    width: 70px;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    border: 1px solid yellow;
+}
+.footer{
+    border: 1px solid gray;
+    text-align: center;
+    color: gray;
+    background-color: black;
+    padding: 20px 30px 20px;
+}
